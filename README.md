@@ -9,3 +9,5 @@ cargo test
 依赖只有 `crc32c` 和 `libc`。Linux 上 `libc::fdatasync` 同步文件内容。子进程通过 `crashline child` 重新 exec，父进程不继承 WAL 的文件描述符。
 
 Bot 约束在 [PLAYBOOK.md](PLAYBOOK.md)。
+
+X：<https://x.com/haifeng950107>
