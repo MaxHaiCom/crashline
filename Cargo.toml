@@ -1,0 +1,8 @@
+[package]
+name = "crashline"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crc32c = "0.6"
+libc = "0.2"
